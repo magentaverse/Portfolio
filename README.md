@@ -3,7 +3,7 @@
 My name is Joanna Szaban. I'm a project manager with 10 years of experience with some web coding practice. I graduated from the Medical University of Warsaw, Poland. I decided to change my career to IT because new technologies are my great passion. My goal is to develop testing knowledge and technical skills. I would like to share my experience from personal studies and research.
 
 **Contact** <br>
-<a href=”https://www.linkedin.com/in/joanna-szaban”>LinkedIn</a><br>
+[LinkedIn](https://www.linkedin.com/in/joanna-szaban)<br>
 <a href="mailto:joanna.szaban@gmail.com">Send e-mail</a> <br>
 
 # Courses
