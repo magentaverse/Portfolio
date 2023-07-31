@@ -2,9 +2,9 @@
 # About me
 My name is Joanna Szaban. I'm a project manager with 10 years of experience with some web coding practice. I graduated from the Medical University of Warsaw, Poland. I decided to change my career to IT because new technologies are my great passion. My goal is to develop testing knowledge and technical skills. I would like to share my experience from personal studies and research.
 
-**Contact**
-<a href=”#LinkedIn”>https://www.linkedin.com/in/joanna-szaban/</a>
-<a href="mailto:joanna.szaban@gmail.com">Send e-mail</a> 
+**Contact** <br>
+<a href=”#LinkedIn”>https://www.linkedin.com/in/joanna-szaban/</a><br>
+<a href="mailto:joanna.szaban@gmail.com">Send e-mail</a> <br>
 
 # Courses
 * Harvard University CS50: Introduction to Computer Science
