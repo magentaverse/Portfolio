@@ -12,7 +12,7 @@ My name is Joanna Szaban. I'm a project manager with 10 years of experience with
 * The Data Science Course: Complete Data Science Bootcamp (Udemy)
 * The Complete SQL Bootcamp: Go from Zero to Hero (Udemy)
 * Complete Agile Scrum Master Certification Training (Udemy)
-* Dare IT Challenge QA + Python
+* <a href=”https://app.dareit.io/">Dare IT Challenge QA + Python</a>
 * Stanford University's course CS193p: Developing Applications for iOS using SwiftUI
 
 
@@ -72,10 +72,9 @@ My name is Joanna Szaban. I'm a project manager with 10 years of experience with
 * Code First Girls
 
 # Recommended blogs
-* testerzy.pl
-* testuj.pl - Test, Bugs & Rock'n'Roll
-* remigiuszbednarczyk.pl
-* pwicherski.gitbook.io
-* GeekON
+* <a href=”testerzy.pl">testerzy.pl</a>
+* <a href=”remigiuszbednarczyk.pl">remigiuszbednarczyk.pl</a>
+* <a href=”https://pwicherski.gitbook.io/testowanie-oprogramowania/">pwicherski.gitbook.io</a>
+
 
 
