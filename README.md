@@ -1,6 +1,20 @@
 # Portfolio
 # About me
-My name is Joanna Szaban. I'm a project manager with 10 years of experince. I graduated from Medical University in Warsaw, Poland. I decided to change my path to IT because new technologies are my great passion. My goal is to develop testing knowledge and technical skills. I would like to share my experience from personal studies and research.
+My name is Joanna Szaban. I'm a project manager with 10 years of experience with some web coding practice. I graduated from the Medical University of Warsaw, Poland. I decided to change my career to IT because new technologies are my great passion. My goal is to develop testing knowledge and technical skills. I would like to share my experience from personal studies and research.
+
+**Contact**
+<a href=”#LinkedIn”>https://www.linkedin.com/in/joanna-szaban/</a>
+<a href="mailto:joanna.szaban@gmail.com">Send e-mail</a> 
+
+# Courses
+* Harvard University CS50: Introduction to Computer Science
+* iOS & Swift - The Complete iOS App Development Bootcamp at The App Brewery (Udemy)
+* The Data Science Course: Complete Data Science Bootcamp (Udemy)
+* The Complete SQL Bootcamp: Go from Zero to Hero (Udemy)
+* Complete Agile Scrum Master Certification Training (Udemy)
+* Dare IT Challenge QA + Python
+* Stanford University's course CS193p: Developing Applications for iOS using SwiftUI
+
 
 # Tools
 * Jing - Screen capture software
@@ -9,15 +23,18 @@ My name is Joanna Szaban. I'm a project manager with 10 years of experince. I gr
 * Slack - for communication within the team
 * Chrome DevTools - for testing and to improve bug reports
 * Git, Git Bash, GitHub
-* MySQL - relational database management system
+* PyCharm
+* MySQL / PostrgeSQL - relational database management system
 * Postman - testing tool for REST API
 * Cucumber - software supporting behaviour-driven development
 * Selenium IDE - tool use to support automated testing
 * Selenium WebDriver - for automated testing of web applications
 * xPath Finder - xPath finding tool
 * draw.io - Flowchart maker and online diagram software
-* * HTML/CSS
-
+* HTML/CSS
+* Xcode
+* Firebase
+  
   
 # Tech skills
 * SQL
@@ -26,52 +43,39 @@ My name is Joanna Szaban. I'm a project manager with 10 years of experince. I gr
 * Software testing
 * Creating test cases
 * Reporting bugs
-* Finding uniqe CSS Selectors and xPaths
+* Finding unique CSS Selectors and xPaths
 * Creating diagrams and decision tables
+* C programming
+* Swift
+* Swift UI
+* iOS SDK
+* REST/JSON
+* UIKit
+* Cocoa Touch
+* CocoaPods
+* Third-party libraries
+* Uni tests/ XCTest
+* MVC and other design patterns
 
-# Certificates
-ISTQB - No. 73599
-Courses
-CODE:ME Podstawy testowania w praktyce
-Gfi Technology Academy
 
 # Books
-R.Smilgin - Zawód tester
-Groups on Facebook
-Tester oprogramowania - wsparcie na starcie
-Testowanie oprogramowania
-Girls Who Tests
-Gildia Testerów
+* R. Kurzweil - Singularity is near
+* R.Smilgin - Zawód tester
+
+# Groups on Facebook
+* Tester oprogramowania - wsparcie na starcie
+* Testowanie oprogramowania
+* Girls Who Tests
+* Gildia Testerów
+* Dare IT Community
+* GoIT
+* Code First Girls
 
 # Recommended blogs
-testerzy.pl
-testuj.pl - Test, Bugs & Rock'n'Roll
-remigiuszbednarczyk.pl
-pwicherski.gitbook.io
-GeekON
+* testerzy.pl
+* testuj.pl - Test, Bugs & Rock'n'Roll
+* remigiuszbednarczyk.pl
+* pwicherski.gitbook.io
+* GeekON
 
-# Webinars
-GeekON - praktyczne ćwiczenie SQL
-Szkoła testera - podstawy testowania
 
-# Articles
-Article about creating portfolio in GitHub using my portfolio as example
-
-# My test case examples
-Test cases for site lubimyczytac.pl
-My bug reports
-Bugs reported for jakdojade.pl site
-My examples of diagrams and decision tables
-Diagrams and decision tables for stoper, railway lights and registration
-My examples of CSS Selectors and xPaths
-Finding uniqe CSS Selectors and xPaths on site ikea.pl
-
-# My projects
-Group project - leader - testing site allegro.pl
-Tablica trello.com
-Individual project - testing site zara.com
-Report
-Test cases
-Test cases - regression testing
-Mind map
-Automated Postman tests
