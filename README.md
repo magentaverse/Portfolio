@@ -3,8 +3,8 @@
 My name is Joanna Szaban. I'm a project manager with 10 years of experience with some web coding practice. I graduated from the Medical University of Warsaw, Poland. I decided to change my career to IT because new technologies are my great passion. My goal is to develop testing knowledge and technical skills. I would like to share my experience from personal studies and research.
 
 **Contact** <br>
-[LinkedIn](https://www.linkedin.com/in/joanna-szaban)<br>
-<a href="mailto:joanna.szaban@gmail.com">Send e-mail</a> <br>
+* [LinkedIn](https://www.linkedin.com/in/joanna-szaban)<br>
+* <a href="mailto:joanna.szaban@gmail.com">Send e-mail</a> <br>
 
 # Courses
 * Harvard University CS50: Introduction to Computer Science
@@ -12,7 +12,7 @@ My name is Joanna Szaban. I'm a project manager with 10 years of experience with
 * The Data Science Course: Complete Data Science Bootcamp (Udemy)
 * The Complete SQL Bootcamp: Go from Zero to Hero (Udemy)
 * Complete Agile Scrum Master Certification Training (Udemy)
-* <a href=”#Dare_IT_Challenge_QA_+_Python">https://app.dareit.io/</a>
+* [Dare IT Challenge QA + Python](https://app.dareit.io/)
 * Stanford University's course CS193p: Developing Applications for iOS using SwiftUI
 
 
@@ -72,9 +72,9 @@ My name is Joanna Szaban. I'm a project manager with 10 years of experience with
 * Code First Girls
 
 # Recommended blogs
-* <a href=”#testerzy.pl">testerzy.pl</a>
-* <a href=”#remigiuszbednarczyk.pl">remigiuszbednarczyk.pl</a>
-* <a href=”#pwicherski.gitbook.io">https://pwicherski.gitbook.io/testowanie-oprogramowania/</a>
+* [testerzy.pl](testerzy.pl)
+* [remigiuszbednarczyk.pl](remigiuszbednarczyk.pl)
+* [pwicherski.gitbook.io](https://pwicherski.gitbook.io/testowanie-oprogramowania/)
 
 
 
