@@ -18,16 +18,16 @@ My name is Joanna Szaban. I'm a project manager with 10 years of experience with
 
 # Tools
 * Jing - Screen capture software
-* Jira, Trello, Azure Devops - Issue tracking and project management tool for developers
+* Jira, Trello, Azure DevOps - Issue tracking and project management tool for developers
 * Bug Magnet - Exploratory testing assistant for Chrome and Firefox
 * Slack - for communication within the team
-* Chrome DevTools - for testing and to improve bug reports
+* Chrome DevTools - for testing and improving bug reports
 * Git, Git Bash, GitHub
 * PyCharm
-* MySQL / PostrgeSQL - relational database management system
+* MySQL / PostgreSQL - relational database management system
 * Postman - testing tool for REST API
-* Cucumber - software supporting behaviour-driven development
-* Selenium IDE - tool use to support automated testing
+* Cucumber - software supporting behavior-driven development
+* Selenium IDE - a tool used to support automated testing
 * Selenium WebDriver - for automated testing of web applications
 * xPath Finder - xPath finding tool
 * draw.io - Flowchart maker and online diagram software
@@ -43,7 +43,7 @@ My name is Joanna Szaban. I'm a project manager with 10 years of experience with
 * Software testing
 * Creating test cases
 * Reporting bugs
-* Finding unique CSS Selectors and xPaths
+* Finding unique CSS Selectors and XPath
 * Creating diagrams and decision tables
 * C programming
 * Swift
@@ -58,15 +58,13 @@ My name is Joanna Szaban. I'm a project manager with 10 years of experience with
 * MVC and other design patterns
 
 # My repositories
-✅ Zajrzyj do plików z kodem, by ocenić moją pracę! 😊 <br>
-👉 [Selenium Library & pyTest](https://github.com/magentaverse/Testy-Automatyczne-Zadnie-1)<br>
-✅  Poniżej link do folderu, w którym znajdziesz moje Test Case'y: <br>
-👉 https://drive.google.com/drive/u/0/folders/1N6onRvH2zfWY7E_H8zN1-74SeStdhP7q<br>
-✅  Poniżej link do mojego repo z robotem 😊<br>
-👉 [Robot Framework](https://github.com/magentaverse/Dare_IT_Challenges_portfolio_robotframework)<br>
-✅  Poniżej linki do folderu z raportem i zgłoszonymi bugami<br>
-👉 https://drive.google.com/drive/folders/11kk8od0-e42XKbh7TiwU4eMhVbe1Y8Lz?usp=drive_link<br>
-👉 https://drive.google.com/drive/folders/1BKBpN_qC-wAlJakpyTj_NR1YOyfUirtn?usp=drive_link<br>
+✅ Take a look at my files, to evaluate my work 😊
+👉 [Selenium Library & PyTest](https://github.com/magentaverse/Testy-Automatyczne-Zadnie-1)<br>
+✅ Check out the folder with my [Test Cases](https://drive.google.com/drive/u/0/folders/1N6onRvH2zfWY7E_H8zN1-74SeStdhP7q) <br>
+✅  Here you can find my repository using [Robot Framework](https://github.com/magentaverse/Dare_IT_Challenges_portfolio_robotframework)😊<br>
+✅  Below you can find links to reports<br>
+👉 [Bug report](https://drive.google.com/drive/folders/11kk8od0-e42XKbh7TiwU4eMhVbe1Y8Lz?usp=drive_link)<br>
+👉 [Test Report](https://drive.google.com/drive/folders/1BKBpN_qC-wAlJakpyTj_NR1YOyfUirtn?usp=drive_link)<br>
 
 # Books
 * R. Kurzweil - Singularity is near
