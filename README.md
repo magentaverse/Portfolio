@@ -12,7 +12,7 @@ My name is Joanna Szaban. I'm a project manager with 10 years of experience with
 * [The Data Science Course: Complete Data Science Bootcamp](https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/)
 * [The Complete SQL Bootcamp: Go from Zero to Hero](https://www.udemy.com/course/the-complete-sql-bootcamp/)
 * [Complete Agile Scrum Master Certification Training](https://www.udemy.com/course/complete-professional-scrum-master-training-exam-simulator/)
-* [Dare IT Challenge QA + Python]([https://app.dareit.io/](https://www.dareit.io/challenges/wstep-do-testow-automatycznych)
+* [Dare IT Challenge QA + Python](https://www.dareit.io/challenges/wstep-do-testow-automatycznych)
 * [Stanford University's course CS193p: Developing Applications for iOS using SwiftUI](https://cs193p.sites.stanford.edu/)
 
 
