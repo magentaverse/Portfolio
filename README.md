@@ -57,6 +57,16 @@ My name is Joanna Szaban. I'm a project manager with 10 years of experience with
 * Uni tests/ XCTest
 * MVC and other design patterns
 
+# My repositories
+✅ Zajrzyj do plików z kodem, by ocenić moją pracę! 😊 
+👉 [Selenium Library & pyTest](https://github.com/magentaverse/Testy-Automatyczne-Zadnie-1)
+✅  Poniżej link do folderu, w którym znajdziesz moje Test Case'y: 
+👉 https://drive.google.com/drive/u/0/folders/1N6onRvH2zfWY7E_H8zN1-74SeStdhP7q
+✅  Poniżej link do mojego repo z robotem 😊
+👉 [Robot Framework](https://github.com/magentaverse/Dare_IT_Challenges_portfolio_robotframework)
+✅  Poniżej linki do folderu z raportem i zgłoszonymi bugami
+👉 https://drive.google.com/drive/folders/11kk8od0-e42XKbh7TiwU4eMhVbe1Y8Lz?usp=drive_link
+👉 https://drive.google.com/drive/folders/1BKBpN_qC-wAlJakpyTj_NR1YOyfUirtn?usp=drive_link
 
 # Books
 * R. Kurzweil - Singularity is near
