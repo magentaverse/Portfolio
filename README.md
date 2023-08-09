@@ -14,6 +14,10 @@ My name is Joanna Szaban. I'm a project manager with 10 years of experience with
 * [Complete Agile Scrum Master Certification Training](https://www.udemy.com/course/complete-professional-scrum-master-training-exam-simulator/)
 * [Dare IT Challenge QA + Python](https://www.dareit.io/challenges/wstep-do-testow-automatycznych)
 * [Stanford University's course CS193p: Developing Applications for iOS using SwiftUI](https://cs193p.sites.stanford.edu/)
+* [ISTQB Foundation Level (CTFL)](https://www.udemy.com/course/istqb-foundation-level-2022-chapter-based-exam-questions/)
+* [Postman and API Testing](https://www.udemy.com/course/postman-crash-course-for-beginners-learn-rest-api-testing/)
+* [Appium Mobile Testing](https://www.udemy.com/course/mobile-automation-using-appiumselenium-3/)
+* [Cucumber BDD with Java -MasterClass Selenium Framework](https://www.udemy.com/course/cucumber-tutorial/)
 
 
 # Tools
@@ -34,6 +38,7 @@ My name is Joanna Szaban. I'm a project manager with 10 years of experience with
 * HTML/CSS
 * Xcode
 * Firebase
+* Appium
   
   
 # Tech skills
@@ -69,6 +74,7 @@ My name is Joanna Szaban. I'm a project manager with 10 years of experience with
 # Books
 * R. Kurzweil - Singularity is near
 * R.Smilgin - Zawód tester
+* Swift Programming - The Big Nerd Ranch Guide - Mikey Ward
 
 # Groups on Facebook
 * Tester oprogramowania - wsparcie na starcie
