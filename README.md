@@ -18,6 +18,7 @@ My name is Joanna Szaban. I'm a project manager with 10 years of experience with
 * [Postman and API Testing](https://www.udemy.com/course/postman-crash-course-for-beginners-learn-rest-api-testing/)
 * [Appium Mobile Testing](https://www.udemy.com/course/mobile-automation-using-appiumselenium-3/)
 * [Cucumber BDD with Java -MasterClass Selenium Framework](https://www.udemy.com/course/cucumber-tutorial/)
+* QA Maraton GoIT (4 days) 
 
 
 # Tools
