@@ -1,6 +1,14 @@
 # Portfolio
 # About me
-My name is Joanna Szaban. I'm a project manager with 10 years of experience with some web coding practice. I graduated from the Medical University of Warsaw, Poland. I decided to change my career to IT because new technologies are my great passion. My goal is to develop testing knowledge and technical skills. I would like to share my experience from personal studies and research.
+Hello! I'm Joanna Szaban, an aspiring junior software tester. While I initially pursued a career in project management and gained a decade of experience, my true passion lies in the dynamic world of software testing.
+
+With a degree from the Medical University of Warsaw, Poland, I've developed a strong foundation in analytical thinking and attention to detail—qualities that I believe are vital for effective software testing. My journey into the world of IT stems from my fascination with new technologies and my desire to contribute to creating reliable and user-friendly software.
+
+My goal is to transition my skills and knowledge into the realm of software testing. I'm dedicated to continuously expanding my testing expertise and technical skills. Through personal studies and research, I'm actively building a toolkit of testing techniques and methodologies.
+
+I'm excited to collaborate with like-minded professionals, contribute to delivering high-quality software, and embrace the challenges that come with ensuring a seamless user experience. Let's connect and embark on this testing journey together!
+
+
 
 **Contact** <br>
 * [LinkedIn](https://www.linkedin.com/in/joanna-szaban)<br>
@@ -34,6 +42,7 @@ My name is Joanna Szaban. I'm a project manager with 10 years of experience with
 * Cucumber - software supporting behavior-driven development
 * Selenium IDE - a tool used to support automated testing
 * Selenium WebDriver - for automated testing of web applications
+* Robot Framework
 * xPath Finder - xPath finding tool
 * draw.io - Flowchart maker and online diagram software
 * HTML/CSS
