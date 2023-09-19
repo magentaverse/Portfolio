@@ -1,6 +1,6 @@
 # Portfolio
 # About me
-Hello! I'm Joanna Szaban, an aspiring junior software tester. While I initially pursued a career in project management and gained a decade of experience, my true passion lies in the dynamic world of software testing.
+Hello! I'm Joanna Szaban, an aspiring junior software tester and Project Manager with years of experience. While I initially pursued a career in project management and gained a decade of experience, my true passion lies in the dynamic world of software testing.
 
 With a degree from the Medical University of Warsaw, Poland, I've developed a strong foundation in analytical thinking and attention to detail—qualities that I believe are vital for effective software testing. My journey into the world of IT stems from my fascination with new technologies and my desire to contribute to creating reliable and user-friendly software.
 
