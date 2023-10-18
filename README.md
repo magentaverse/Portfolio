@@ -85,7 +85,7 @@ I'm excited to collaborate with like-minded professionals, contribute to deliver
 👉 [Test Report- QA](https://drive.google.com/drive/folders/1BKBpN_qC-wAlJakpyTj_NR1YOyfUirtn?usp=drive_link)<br>
 👉 [Test Report- Manual](https://docs.google.com/spreadsheets/d/1ldist0q_1kzRJ5eNglwmTcWBmFiQi8AsFJUlnsVydOI/edit?usp=share_link)<br>
 👉 [Test Cases](https://drive.google.com/drive/u/0/folders/1snzV8IcBCjplSbxOPZC7yczg_8Y6oeDv)<br>
-👉 [OLX Mobile App Bug report](https://docs.google.com/spreadsheets/d/1spw-wyhEo8o-eFHWI99EwZuyCuTNtOcYhbJn16EIyS4/edit#gid=0)<br>
+👉 [OLX Mobile App Bug Report](https://docs.google.com/spreadsheets/d/1spw-wyhEo8o-eFHWI99EwZuyCuTNtOcYhbJn16EIyS4/edit#gid=0)<br>
 
 # Books
 * R. Kurzweil - Singularity is near
