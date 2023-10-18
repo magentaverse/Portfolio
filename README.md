@@ -21,6 +21,7 @@ I'm excited to collaborate with like-minded professionals, contribute to deliver
 * [The Complete SQL Bootcamp: Go from Zero to Hero](https://www.udemy.com/course/the-complete-sql-bootcamp/)
 * [Complete Agile Scrum Master Certification Training](https://www.udemy.com/course/complete-professional-scrum-master-training-exam-simulator/)
 * [Dare IT Challenge QA + Python](https://www.dareit.io/challenges/wstep-do-testow-automatycznych)
+* [Dare IT Challenge Manual Tester](https://www.dareit.io/challenges/qa-manual-testing)
 * [Stanford University's course CS193p: Developing Applications for iOS using SwiftUI](https://cs193p.sites.stanford.edu/)
 * [ISTQB Foundation Level (CTFL)](https://www.udemy.com/course/istqb-foundation-level-2022-chapter-based-exam-questions/)
 * [Postman and API Testing](https://www.udemy.com/course/postman-crash-course-for-beginners-learn-rest-api-testing/)
@@ -37,6 +38,7 @@ I'm excited to collaborate with like-minded professionals, contribute to deliver
 * Chrome DevTools - for testing and improving bug reports
 * Git, Git Bash, GitHub
 * PyCharm
+* XAMPP
 * MySQL / PostgreSQL - relational database management system
 * Postman - testing tool for REST API
 * Cucumber - software supporting behavior-driven development
@@ -78,8 +80,12 @@ I'm excited to collaborate with like-minded professionals, contribute to deliver
 ✅ Check out the folder with my [Test Cases](https://drive.google.com/drive/u/0/folders/1N6onRvH2zfWY7E_H8zN1-74SeStdhP7q) <br>
 ✅  Here you can find my repository using [Robot Framework](https://github.com/magentaverse/Dare_IT_Challenges_portfolio_robotframework)😊<br>
 ✅  Below you can find links to reports<br>
-👉 [Bug report](https://drive.google.com/drive/folders/11kk8od0-e42XKbh7TiwU4eMhVbe1Y8Lz?usp=drive_link)<br>
-👉 [Test Report](https://drive.google.com/drive/folders/1BKBpN_qC-wAlJakpyTj_NR1YOyfUirtn?usp=drive_link)<br>
+👉 [Bug report- QA](https://drive.google.com/drive/folders/11kk8od0-e42XKbh7TiwU4eMhVbe1Y8Lz?usp=drive_link)<br>
+👉 [Bug report- Manual](https://docs.google.com/spreadsheets/d/1E7mOC44nr_rsmfAjHgEcJGuP4UFl9JiBUO2BoCP3iM4/edit?usp=share_link)<br>
+👉 [Test Report- QA](https://drive.google.com/drive/folders/1BKBpN_qC-wAlJakpyTj_NR1YOyfUirtn?usp=drive_link)<br>
+👉 [Test Report- Manual](https://docs.google.com/spreadsheets/d/1ldist0q_1kzRJ5eNglwmTcWBmFiQi8AsFJUlnsVydOI/edit?usp=share_link)<br>
+👉 [Test Cases](https://drive.google.com/drive/u/0/folders/1snzV8IcBCjplSbxOPZC7yczg_8Y6oeDv)<br>
+👉 [OLX Mobile App Bug report](https://docs.google.com/spreadsheets/d/1spw-wyhEo8o-eFHWI99EwZuyCuTNtOcYhbJn16EIyS4/edit#gid=0)<br>
 
 # Books
 * R. Kurzweil - Singularity is near
